@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Cardo:wght@700&family=Inter:wght@500&family=Kameron:wght@400;700&family=Raleway:ital,wght@0,100;0,200;0,300;0,400;0,500;1,100;1,200;1,300;1,400;1,500&display=swap');
+
+body {
+  font-family: Raleway, sans-serif;
+  margin: 0;
+  font-size: 1.5 em;
+  text-align: center;
+  color: palevioletred;
+  background-image: url("/public/images/candy.jpg");
+  background-position: top;
+}
